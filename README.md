@@ -17,7 +17,6 @@ Code • Degisn • Learn
 - 💻 Learning Backend Development with Java & Spring Boot
 - 🌱 Exploring SQL, OOP, and system design
 - 🎮 Interested in game development & creative coding
-- 🎨 Drawing and coding at night 🌙
 
 ---
 
