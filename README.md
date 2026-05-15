@@ -58,7 +58,7 @@ Code • Degisn • Learn
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KasmHuy&repo=Chat-System&theme=tokyonight&hide_border=true)](https://github.com/KasmHuy/Chat-System)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KasmHuy&repo=RAG-Chatbot-classic&theme=tokyonight&hide_border=true)](https://github.com/KasmHuy/RAG-Chatbot-classic)
 </div>
 
 ---
