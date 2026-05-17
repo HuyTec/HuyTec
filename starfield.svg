@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 50" width="800" height="50">
+<defs>
+<style>
+@keyframes tw1{0%,100%{opacity:.08}50%{opacity:1}}
+@keyframes tw2{0%,100%{opacity:.15}55%{opacity:.9}}
+@keyframes tw3{0%,100%{opacity:.05}45%{opacity:.75}}
+@keyframes tw4{0%,100%{opacity:.2}60%{opacity:1}}
+@keyframes drift1{0%{transform:translateX(0px)}100%{transform:translateX(-800px)}}
+@keyframes drift2{0%{transform:translateX(200px)}100%{transform:translateX(-600px)}}
+@keyframes drift3{0%{transform:translateX(400px)}100%{transform:translateX(-400px)}}
+.a{fill:#F0C040;animation:tw1 2s ease-in-out infinite,drift1 18s linear infinite}
+.b{fill:#c8e8ff;animation:tw2 3s ease-in-out infinite 1.2s,drift2 22s linear infinite}
+.c{fill:#ffffff;animation:tw3 1.8s ease-in-out infinite .6s,drift1 28s linear infinite}
+.d{fill:#F0C040;animation:tw4 2.5s ease-in-out infinite 1.8s,drift3 20s linear infinite}
+.e{fill:#90b8ff;animation:tw1 1.5s ease-in-out infinite .3s,drift2 15s linear infinite}
+.f{fill:#ffe080;animation:tw2 3.5s ease-in-out infinite 2s,drift3 24s linear infinite}
+</style>
+</defs>
+<circle class="a" cx="30"  cy="12" r="2.2"/>
+<circle class="b" cx="95"  cy="35" r="1.5"/>
+<circle class="c" cx="155" cy="8"  r="1"/>
+<circle class="d" cx="210" cy="28" r="2.5"/>
+<circle class="e" cx="275" cy="15" r="1.8"/>
+<circle class="a" cx="340" cy="40" r="1.2"/>
+<circle class="f" cx="390" cy="10" r="2"/>
+<circle class="b" cx="450" cy="30" r="1.5"/>
+<circle class="c" cx="510" cy="20" r="1"/>
+<circle class="d" cx="565" cy="8"  r="2.2"/>
+<circle class="e" cx="620" cy="38" r="1.8"/>
+<circle class="a" cx="675" cy="18" r="1.5"/>
+<circle class="f" cx="730" cy="42" r="1.2"/>
+<circle class="b" cx="785" cy="12" r="2"/>
+<circle class="c" cx="65"  cy="42" r="1.8"/>
+<circle class="d" cx="130" cy="18" r="1.2"/>
+<circle class="e" cx="185" cy="45" r="2"/>
+<circle class="f" cx="245" cy="6"  r="1.5"/>
+<circle class="a" cx="305" cy="32" r="1"/>
+<circle class="b" cx="360" cy="22" r="2.2"/>
+<circle class="c" cx="420" cy="44" r="1.8"/>
+<circle class="d" cx="480" cy="5"  r="1.2"/>
+<circle class="e" cx="535" cy="25" r="2.5"/>
+<circle class="f" cx="590" cy="14" r="1"/>
+<circle class="a" cx="645" cy="46" r="1.5"/>
+<circle class="b" cx="700" cy="28" r="2"/>
+<circle class="c" cx="755" cy="6"  r="1.8"/>
+<circle class="d" cx="20"  cy="38" r="1.2"/>
+<circle class="e" cx="170" cy="25" r="1.5"/>
+<circle class="f" cx="500" cy="40" r="2"/>
+</svg>
