@@ -18,11 +18,11 @@
 
 <br/>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%230d2b6b.svg?style=for-the-badge&logo=Facebook&logoColor=%23F0C040)](https://facebook.com/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-%231a3a7a.svg?style=for-the-badge&logo=Instagram&logoColor=%23F0C040)](https://instagram.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a1f4d.svg?style=for-the-badge&logo=linkedin&logoColor=%23F0C040)](https://linkedin.com/in/YOUR_USERNAME)
-[![X](https://img.shields.io/badge/X-%230d2b6b.svg?style=for-the-badge&logo=X&logoColor=%23F0C040)](https://x.com/YOUR_USERNAME)
-[![Zalo](https://img.shields.io/badge/Zalo-%231a3a7a.svg?style=for-the-badge&logo=zalo&logoColor=%23F0C040)](https://zalo.me/YOUR_PHONE_OR_ID)
+[![Facebook](https://img.shields.io/badge/Facebook-%230d2b6b.svg?style=for-the-badge&logo=Facebook&logoColor=%23F0C040)](https://www.facebook.com/NhhHuuy/)
+[![Instagram](https://img.shields.io/badge/Instagram-%231a3a7a.svg?style=for-the-badge&logo=Instagram&logoColor=%23F0C040)](https://www.instagram.com/kasm25281/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a1f4d.svg?style=for-the-badge&logo=linkedin&logoColor=%23F0C040)](https://www.linkedin.com/in/tr%E1%BA%A7n-nh%E1%BB%B1t-huy-undefined-484830403/)
+[![X](https://img.shields.io/badge/X-%230d2b6b.svg?style=for-the-badge&logo=X&logoColor=%23F0C040)](https://x.com/TNH159418929169)
+[![Zalo](https://img.shields.io/badge/Zalo-%231a3a7a.svg?style=for-the-badge&logo=zalo&logoColor=%23F0C040)](https://zalo.me/0962713941)
 
 </div>
 
