@@ -5,8 +5,6 @@
 </div>
 
 <div align="center">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRhMGoyOTU4b3Zwa3djeHYzc2lydDFycWJwM2poM3I4and5eGwydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IqC4IsUmtbpqn2on8W/giphy.gif" width="190"/>
 <div align="center"><img src="https://raw.githubusercontent.com/KasmHuy/KasmHuy/main/swirl.svg" width="100%"/></div>
 <br/><br/>
 
