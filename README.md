@@ -1,19 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04091f,40:0d1b4b,80:1a3a7a,100:2e5fa3&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Huy&fontSize=48&fontColor=F0C040&fontAlignY=38&desc=Backend%20Developer%20in%20Progress&descAlignY=58&descSize=18&descFontColor=a8c8f8&animation=twinkling&fontAlign=50"/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/KasmHuy/KasmHuy/main/starfield.svg" width="100%"/>
-</div>
 
 <div align="center">
-<div align="center"><img src="https://raw.githubusercontent.com/KasmHuy/KasmHuy/main/swirl.svg" width="100%"/></div>
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=13&duration=80&pause=4000&color=F0C040&center=true&vCenter=true&width=700&height=30&lines=✦+·+·+·+✧+·+·+·+★+·+·+·+✦+·+·+·+✧+·+·+·+★+·+·+·+✦;·+✧+·+·+·+★+·+·+·+✦+·+·+·+✧+·+·+·+★+·+·+·+✦+·+·;·+·+★+·+·+·+✦+·+·+·+✧+·+·+·+★+·+·+·+✦+·+·+·+✧+·;✦+·+·+·+✧+·+·+·+★+·+·+·+✦+·+·+·+✧+·+·+·+★+·+·+·+✦" alt="stars"/>
-
-<br/>
-
-> *🎨 "I dream of painting and then I paint my dream." — Vincent van Gogh*
-
+*🎨 "I dream of painting and then I paint my dream." — Vincent van Gogh*
 <br/>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%230d2b6b.svg?style=for-the-badge&logo=Facebook&logoColor=%23F0C040)](https://www.facebook.com/NhhHuuy/)
@@ -22,9 +11,6 @@
 [![Zalo](https://img.shields.io/badge/Zalo-%231a3a7a.svg?style=for-the-badge&logo=zalo&logoColor=%23F0C040)](https://zalo.me/0962713941)
 
 </div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/KasmHuy/KasmHuy/main/starfield.svg" width="100%"/></div>
-
 ## 🌙 About Me
 
 <div align="center">
