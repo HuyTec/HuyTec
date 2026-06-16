@@ -54,7 +54,7 @@
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/KasmHuy/KasmHuy/main/starfield.svg" width="100%"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/HuyTec/HuyTec/main/starfield.svg" width="100%"/></div>
 
 ## 🌻 Top Repository
 
