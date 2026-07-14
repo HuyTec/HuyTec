@@ -49,14 +49,32 @@
 
 ## 🏆 Top Repository
 
-<p align="center">
-  <a href="https://github.com/KasmHuy/Chat-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KasmHuy&repo=Chat-System&theme=tokyonight&hide_border=false&border_color=2E5FA3&title_color=F0C040&icon_color=F0C040&text_color=a8c8f8&bg_color=04091f" />
-  </a>
-  <a href="https://github.com/KasmHuy/task-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KasmHuy&repo=RAG-Chatbot-classic&theme=tokyonight&hide_border=false&border_color=2E5FA3&title_color=F0C040&icon_color=F0C040&text_color=a8c8f8&bg_color=04091f" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/KasmHuy/Chat-System">
+        <img src="https://raw.githubusercontent.com/KasmHuy/Chat-System/main/screenshot.png" width="100%" alt="Chat-System preview"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/KasmHuy/Chat-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KasmHuy&repo=Chat-System&theme=tokyonight&hide_border=false&border_color=2E5FA3&title_color=F0C040&icon_color=F0C040&text_color=a8c8f8&bg_color=04091f" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/KasmHuy/task-management">
+        <img src="https://raw.githubusercontent.com/KasmHuy/task-management/main/screenshot.png" width="100%" alt="Task Management preview"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/KasmHuy/task-management">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KasmHuy&repo=RAG-Chatbot-classic&theme=tokyonight&hide_border=false&border_color=2E5FA3&title_color=F0C040&icon_color=F0C040&text_color=a8c8f8&bg_color=04091f" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
