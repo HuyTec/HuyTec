@@ -61,7 +61,7 @@
 <div align="center">
 
 [![Chat-System](https://github-readme-stats.vercel.app/api/pin/?username=KasmHuy&repo=Chat-System&theme=tokyonight&hide_border=false&border_color=2E5FA3&title_color=F0C040&icon_color=F0C040&text_color=a8c8f8&bg_color=04091f)](https://github.com/KasmHuy/Chat-System)
-[![RAG-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=KasmHuy&repo=RAG-Chatbot-classic&theme=tokyonight&hide_border=false&border_color=2E5FA3&title_color=F0C040&icon_color=F0C040&text_color=a8c8f8&bg_color=04091f)](https://github.com/KasmHuy/RAG-Chatbot-classic)
+[![Task-Expense Management Application](https://github-readme-stats.vercel.app/api/pin/?username=KasmHuy&repo=RAG-Chatbot-classic&theme=tokyonight&hide_border=false&border_color=2E5FA3&title_color=F0C040&icon_color=F0C040&text_color=a8c8f8&bg_color=04091f)](https://github.com/KasmHuy/task-management)
 
 </div>
 
